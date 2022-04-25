@@ -1,0 +1,13 @@
+#scheduleTable{
+    text-align: center;
+}
+#scheduleTable{
+    text-align: center;
+    margin: 20px;
+}
+.check{
+    color: red;
+}
+.check:checked{
+    background-color: yellowgreen;
+}
